@@ -1,27 +1,44 @@
-### Hi there 👋 
-### This is Ahmed Awwad!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Ahmed221b)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-awwad221/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmedawwad221b@gmail.com)
+<h2> Hey there! I'm Ahmed.</h2>
 
-Welcome to my Github page! I am Ahmed and I am currently a senior IS student at faculty of Computer Science at Ain Shams University  
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Studying Computer Science at University of Ain Shams.
+- 🌱 &nbsp; Learning Back-End Development (.NET stack).
 
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-#### 🌱 Things I am currently working on: 
-- Learning Backend Development. (.NET Stack)  
-- Improving my Problem Solving Skills.
+- 💻 &nbsp;
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+<br/>
 
-#### :computer: Programming languages and tools: 
-<p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Ahmed221b&count_private=true&show_icons=true&theme=radical" />
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+</a>
 
-	
-	<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-	<code><img width="10%" src="file:///C:/Users/ALKODS/Downloads/microsoft-sql-server-logo-svgrepo-com%20(1).svg"></code>
-	
-<br />
+<br/>
 
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/ahmed-awwad-264986204/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:ahmedawwad221b@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+⭐️ From [AVS1508](https://github.com/AVS1508)
