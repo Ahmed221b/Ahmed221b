@@ -17,6 +17,8 @@ Welcome to my Github page! I am Ahmed and I am currently a senior IS student at 
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Ahmed221b&count_private=true&show_icons=true&theme=radical" />
+	<img width="50%" align="right" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed221b&layout=compact&card_width=450&theme=radical" />
+	
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"></code>
