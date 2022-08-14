@@ -17,7 +17,7 @@ Welcome to my Github page! I am Ahmed and I am currently a senior IS student at 
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Ahmed221b&count_private=true&show_icons=true&theme=radical" />
-	[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed221b&layout=compact&card_width=450&theme=radical )](https://github.com/Ahmed221b/github-readme-stats)
+	
 	
 	
 
@@ -35,4 +35,3 @@ Welcome to my Github page! I am Ahmed and I am currently a senior IS student at 
 </p>
 
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
