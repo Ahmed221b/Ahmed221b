@@ -16,7 +16,7 @@ Welcome to my Github page! I am Ahmed and I am currently a senior IS student at 
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Ahmed221b&count_private=true&show_icons=true&theme=radical" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"></code>
@@ -31,6 +31,5 @@ Welcome to my Github page! I am Ahmed and I am currently a senior IS student at 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed221b&count_private=true&show_icons=true&theme=radical )
 
 <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
