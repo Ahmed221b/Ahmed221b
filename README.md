@@ -20,7 +20,7 @@ Welcome to my Github page! I am Ahmed and I am currently a senior IS student at 
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"></code>
-<code><img width="10%" src="https://toppng.com/uploads/preview/sql-server-logo-11536003918cqijfkbvn4.png"></code>
+<code><img width="10%" src="https://banner2.cleanpng.com/20180614/sg/kisspng-microsoft-sql-server-sql-server-management-studio-transactional-analysis-5b2207401c5992.0038138215289567361161.jpg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
