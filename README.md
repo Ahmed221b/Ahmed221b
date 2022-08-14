@@ -21,8 +21,11 @@ Welcome to my Github page! I am Ahmed and I am currently a senior IS student at 
 	
 	
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="file:///C:/Users/ALKODS/Downloads/microsoft-sql-server-logo-svgrepo-com%20(1).svg"></code>
+<code>
+	<img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+	<img width="10%" src="file:///C:/Users/ALKODS/Downloads/microsoft-sql-server-logo-svgrepo-com%20(1).svg">
+	
+</code>
 
 
 <br />
