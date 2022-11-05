@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science at University of Ain Shams.
-- 🌱 &nbsp; Learning Back-End Development (.NET stack).
+- 🌱 &nbsp; Learning Backend Development (.NET stack).
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
