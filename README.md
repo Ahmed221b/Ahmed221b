@@ -45,6 +45,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ahmed-awwad-264986204/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahmed%20Awwad-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/ahmedawwad221/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahmed%20Awwad-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:ahmedawwad221b@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ahmedawwad221b@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
