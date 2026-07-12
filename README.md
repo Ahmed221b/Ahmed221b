@@ -35,10 +35,6 @@
 
 <br/>
 
-<a href="https://github.com/Ahmed221b">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed221b&theme=buefy&layout=compact" />
-</a>
-
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
