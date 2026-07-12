@@ -3,7 +3,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🌱 &nbsp; Full-Stack Developer (.NET - Angular).  
-- 📖 &nbsp; Currently learning **Front-End Development** to become a full-stack developer.  
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.  
 - 🎓 &nbsp; Studied Computer Science at University of Ain Shams.  
 
